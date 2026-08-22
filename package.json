@@ -1,0 +1,13 @@
+{
+  "name": "frame-card",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Home Assistant container card: one frame around several cards, with a status strip and a fill bar",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "devDependencies": {
+    "happy-dom": "^15.11.7"
+  }
+}
