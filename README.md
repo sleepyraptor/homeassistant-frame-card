@@ -13,7 +13,7 @@ Everything is configured in the visual editor. There are no templates to write a
 
 ![Two frame cards: a UPS with a strip, a plant with a bar](docs/screenshot.png)
 
-No dependencies, no build step, ~7 KB.
+No dependencies, no build step, ~20 KB.
 
 ## Installation
 
